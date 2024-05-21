@@ -1,0 +1,14 @@
+.todo-content {
+  width: 30%;
+  background-color: rgba(255,255,255,0.5);
+  padding: 30px 20px;
+  border-radius: 20px;
+}
+.todo-content div{
+  /* width: 100%; */
+  display: block;
+}
+
+.todo-content-list{
+  margin-top: 20px;
+}
